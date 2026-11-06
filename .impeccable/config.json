@@ -1,0 +1,20 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "fraunces",
+        "createdAt": "2026-11-06T15:25:19.893Z",
+        "reason": "user approved current design ('it is perfect') after font question was raised 3x"
+      },
+      {
+        "rule": "overused-font",
+        "value": "space grotesk",
+        "createdAt": "2026-11-06T15:25:19.933Z",
+        "reason": "user approved current design ('it is perfect') after font question was raised 3x"
+      }
+    ]
+  }
+}

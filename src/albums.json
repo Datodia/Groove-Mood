@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1665303764,
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "track": "Money",
+    "year": "1973",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/86/18/49861852-877b-0992-fa27-58b25fa032b5/196589805232.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/ef/88/5bef88e5-2177-f2bd-403e-11b9b23430dc/mzaf_10616705930074106033.plus.aac.p.m4a"
+  },
+  {
+    "id": 269573364,
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "track": "Billie Jean",
+    "year": "1982",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/bc/8a/dcbc8a3e-4ce1-c00d-cc02-eda2212053c7/mzaf_8347559338388601510.plus.aac.p.m4a"
+  },
+  {
+    "id": 594061856,
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "track": "Dreams",
+    "year": "1977",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/37/e7/d437e72a-c41b-332c-f196-bee295a9d673/mzaf_11574904347171701919.plus.aac.p.m4a"
+  },
+  {
+    "id": 617154366,
+    "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+    "album": "Random Access Memories",
+    "track": "Get Lucky",
+    "year": "2013",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/a5/85/57a585aa-f1bc-7619-881b-f8a04a5541d5/mzaf_6906185026678279401.plus.aac.p.m4a"
+  },
+  {
+    "id": 1441164430,
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "track": "Come Together",
+    "year": "1969",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/db/61/dfdb615d-47f8-06e9-9533-b96daccc029f/18UMGIM31076.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/65/7c/26657c20-9fec-56d6-55ff-61a76996f19b/mzaf_6128091568231335556.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440783625,
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "track": "Smells Like Teen Spirit",
+    "year": "1991",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/49/4e/65494e02-b6d3-26d8-6b0c-9bd98dcf4d5d/mzaf_7665413316386155700.plus.aac.p.m4a"
+  },
+  {
+    "id": 268443097,
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "track": "So What",
+    "year": "1959",
+    "genre": "Jazz",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/e8/0a/54e80a8b-1d60-6b59-e908-6fd65c4ff783/mzaf_2469862574651846302.plus.aac.p.m4a"
+  },
+  {
+    "id": 1229320478,
+    "artist": "Prince & The Revolution",
+    "album": "Purple Rain",
+    "track": "Purple Rain",
+    "year": "1984",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/b6/79/c1b679f5-d59d-1b3e-62ab-514de20f06c6/093624912002.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/70/9b/4a709b41-3c29-626a-ca69-44aa907f4705/mzaf_14388295257133509788.plus.aac.p.m4a"
+  },
+  {
+    "id": 6781024437,
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "track": "Bohemian Rhapsody",
+    "year": "1975",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/0a/ea/8b0aea60-6f4a-195b-5958-cdf459c2333b/602527644271.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/83/09/4b8309c3-e3b2-10bd-ea80-ec017d832503/mzaf_9752264660400108875.plus.aac.p.m4a"
+  },
+  {
+    "id": 1097861836,
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "track": "Karma Police",
+    "year": "1997",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/21/35/46213520-da4a-1806-0c59-5ca6ad008b4e/mzaf_5277404092043261430.plus.aac.p.m4a"
+  },
+  {
+    "id": 1422677781,
+    "artist": "Amy Winehouse",
+    "album": "Back to Black",
+    "track": "Rehab",
+    "year": "2006",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/7f/37/c07f37f1-a8e1-b093-f643-9e3bae02589b/mzaf_10374144630525520706.plus.aac.p.m4a"
+  },
+  {
+    "id": 1039797280,
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust",
+    "track": "Starman",
+    "year": "1972",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/fa/56/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d/825646124206.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/22/a3/af22a300-39a6-71fd-2933-b09ab5b896cb/mzaf_1685297233127594181.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440871886,
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "track": "Alright",
+    "year": "2015",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/27/4e/3b274eab-c2de-84c5-a68d-4f78f3269bac/mzaf_16117050990489545534.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440788542,
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "track": "Sir Duke",
+    "year": "1976",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/fa/54/68fa54fb-3942-6b00-23b6-2359ff09c769/mzaf_17647130785703846058.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440838708,
+    "artist": "Tame Impala",
+    "album": "Currents",
+    "track": "New Person, Same Old Mistakes",
+    "year": "2015",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/2e/b4/a82eb490-f30a-a321-461a-0383c88fec95/15UMGIM23316.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/9b/44/559b443e-06b6-bc62-f3f7-5f21a37971b0/mzaf_16483469776306833254.plus.aac.p.m4a"
+  },
+  {
+    "id": 1538081594,
+    "artist": "Marvin Gaye",
+    "album": "What's Going On",
+    "track": "What's Going On",
+    "year": "1971",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/f3/f4/08f3f452-b24f-e25b-92bc-15850f1bdc6a/mzaf_14002930736666872327.plus.aac.p.m4a"
+  },
+  {
+    "id": 580708177,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "track": "Black Dog",
+    "year": "1971",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/53/e6/9653e686-47ae-8595-25af-85cccd820378/mzaf_68244809129836321.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440830886,
+    "artist": "The Rolling Stones",
+    "album": "Sticky Fingers",
+    "track": "Brown Sugar",
+    "year": "1971",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/26/c9/fa26c9e4-e598-5019-9bd0-ce8321245cc5/15UMGIM15404.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/14/11/e6141184-302a-254e-ba1f-cbdde99db88d/mzaf_4535470187684948249.plus.aac.p.m4a"
+  },
+  {
+    "id": 1622368516,
+    "artist": "The Doors",
+    "album": "The Doors",
+    "track": "Break On Through (To The Other Side)",
+    "year": "1967",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/e2/ce/97e2ce16-02e1-54f6-3896-dcc55249ff7d/603497838738.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/d3/9a/bfd39ab5-da3a-6356-b04b-4a8ad263e530/mzaf_13592991831784140212.plus.aac.p.m4a"
+  },
+  {
+    "id": 357225355,
+    "artist": "The Jimi Hendrix Experience",
+    "album": "Are You Experienced",
+    "track": "Purple Haze",
+    "year": "1967",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/67/45/006745f5-95d5-5a06-35ed-d515e9cfd7d8/dj.tbwlxwoh.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/99/84/9f9984a6-e21f-c2da-cf74-e66fb824573f/mzaf_12825826496232280545.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440843863,
+    "artist": "The Beach Boys",
+    "album": "Pet Sounds",
+    "track": "Wouldn't It Be Nice",
+    "year": "1966",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/85/d9/f485d9dc-97e3-7422-7688-55a44d64d431/13UABIM03512.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/6c/b7/506cb75b-3606-8979-ecb5-90103c600b25/mzaf_8794274738753466606.plus.aac.p.m4a"
+  },
+  {
+    "id": 201281527,
+    "artist": "Bob Dylan",
+    "album": "Highway 61 Revisited",
+    "track": "Like a Rolling Stone",
+    "year": "1965",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/68/b1/a568b1af-ff36-c4c4-f8b4-f1ffe5484c3a/mzaf_7213634674974695928.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440851619,
+    "artist": "The Velvet Underground & Nico",
+    "album": "The Velvet Underground & Nico",
+    "track": "Sunday Morning",
+    "year": "1967",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/92/93/39/9293397f-a707-237e-ec7e-0ca613a67e3c/06UMGIM04143.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/4f/d7/4f4fd781-75fa-d0f7-b6b6-54f4eb525f03/mzaf_1100325313778209968.plus.aac.p.m4a"
+  },
+  {
+    "id": 580708471,
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "track": "Whole Lotta Love",
+    "year": "1969",
+    "genre": "Hard Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/3d/bb/1a3dbb86-c1f8-737e-571f-d6b647a230be/dj.rhubuvkd.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/15/37/8a1537e5-9d18-7e44-4ca8-3295942263b6/mzaf_2401048427177636441.plus.aac.p.m4a"
+  },
+  {
+    "id": 574050602,
+    "artist": "AC/DC",
+    "album": "Back in Black",
+    "track": "Back In Black",
+    "year": "1980",
+    "genre": "Hard Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/2e/ac/082eac8c-1d0e-f72f-7b37-b8e037ff1579/mzaf_7587164327744022409.plus.aac.p.m4a"
+  },
+  {
+    "id": 1377813701,
+    "artist": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "track": "Sweet Child O' Mine",
+    "year": "1987",
+    "genre": "Hard Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/82/2d/a5822d67-2e65-fe95-511e-1f785d23e5cc/mzaf_8619467974951398014.plus.aac.p.m4a"
+  },
+  {
+    "id": 1572051818,
+    "artist": "Metallica",
+    "album": "Metallica",
+    "track": "Enter Sandman",
+    "year": "1991",
+    "genre": "Metal",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/94/95/2e9495d7-dfe3-ddc8-87ef-6ef797a60218/850007452056.png/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/8a/fc/538afc1c-b9cd-24ab-b401-2fa8c81abc46/mzaf_3160131754964321707.plus.aac.p.m4a"
+  },
+  {
+    "id": 684811768,
+    "artist": "The Clash",
+    "album": "London Calling",
+    "track": "London Calling",
+    "year": "1979",
+    "genre": "Punk",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/d7/17/45d71740-b204-de23-3f9e-f2f823296f1d/886443520721.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/e5/65/40e5656c-e7db-9f1f-4890-d0f9b6c7b45f/mzaf_17665211272480329804.plus.aac.p.m4a"
+  },
+  {
+    "id": 124921347,
+    "artist": "Talking Heads",
+    "album": "Remain in Light",
+    "track": "Once In a Lifetime",
+    "year": "1980",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/9c/21/489c217b-d228-59a3-296d-6fa1d90776b7/dj.bpkztuma.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d8/e2/c2d8e26c-01b8-0d59-39d5-867086338e43/mzaf_4814700109397140137.plus.aac.p.m4a"
+  },
+  {
+    "id": 266603053,
+    "artist": "Joy Division",
+    "album": "Unknown Pleasures",
+    "track": "Disorder",
+    "year": "1979",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/80/14/7f/80147fb9-8c62-8773-60fe-51d9bdcfd415/dj.blmthqrv.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/cc/89/4dcc8922-012f-c11f-b061-caef7bafe7e2/mzaf_11167643022210339253.plus.aac.p.m4a"
+  },
+  {
+    "id": 800157892,
+    "artist": "The Smiths",
+    "album": "The Queen Is Dead",
+    "track": "There Is a Light That Never Goes Out",
+    "year": "1986",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/c9/1d/4ec91df8-8524-b6ac-812c-fb38054be09d/mzaf_3253228293752173874.plus.aac.p.m4a"
+  },
+  {
+    "id": 1443155645,
+    "artist": "U2",
+    "album": "The Joshua Tree",
+    "track": "With or Without You",
+    "year": "1987",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/e2/c3/8fe2c384-f6cb-9af7-371d-2b6a9b204e59/17UMGIM79292.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/04/a9/f904a9e1-df59-ac64-1684-2fd428a4cd7d/mzaf_1189193086524097094.plus.aac.p.m4a"
+  },
+  {
+    "id": 371772239,
+    "artist": "The Cure",
+    "album": "Disintegration",
+    "track": "Lovesong",
+    "year": "1989",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/d2/ba/94d2bacf-07d7-df79-24a3-7fbf5207c848/081227981303.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/11/14/191114b2-6e7f-6bf7-8dca-d0e5686dda12/mzaf_3779494718508004494.plus.aac.p.m4a"
+  },
+  {
+    "id": 425465351,
+    "artist": "Pearl Jam",
+    "album": "Ten",
+    "track": "Black",
+    "year": "1991",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e1/7c/e0e17cf0-62e5-6312-f3df-2462960cc8f1/884977724745.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/98/a4/a798a4a2-dc88-1dcc-8afa-c14998734b1c/mzaf_8383293445281438560.plus.aac.p.m4a"
+  },
+  {
+    "id": 945575413,
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "track": "Californication",
+    "year": "1999",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/1a/01/fc1a01fe-375d-5cb2-93ef-55a693524abe/mzaf_6269587594887308656.plus.aac.p.m4a"
+  },
+  {
+    "id": 266377010,
+    "artist": "The Strokes",
+    "album": "Is This It",
+    "track": "Last Nite",
+    "year": "2001",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/c7/30/69c73043-f9dd-0c63-23cd-bfab274520ee/mzaf_5834786258891852942.plus.aac.p.m4a"
+  },
+  {
+    "id": 663097965,
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "track": "Do I Wanna Know?",
+    "year": "2013",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/cb/ba/71cbbaa1-016b-0e73-dfc2-9f4ede9ddfc0/mzaf_16266777024198047150.plus.aac.p.m4a"
+  },
+  {
+    "id": 1533513537,
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "track": "Seven Nation Army",
+    "year": "2003",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/25/09/0725098a-09f4-f240-e551-94384a590371/886448799009.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/2d/58/fe2d587f-6344-3fb3-43f7-d318a6253dcc/mzaf_16825320951570507954.plus.aac.p.m4a"
+  },
+  {
+    "id": 1249418625,
+    "artist": "Arcade Fire",
+    "album": "Funeral",
+    "track": "Wake Up",
+    "year": "2004",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/09/6e/2b096e8c-ae65-fc42-a4b1-19abb4100433/886446576442.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/7b/73/1e7b73ee-bc1d-2e1b-4ff9-e6aa43772774/mzaf_1501049522312124735.plus.aac.p.m4a"
+  },
+  {
+    "id": 1517447333,
+    "artist": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "track": "Wonderwall",
+    "year": "1995",
+    "genre": "Indie Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/16/93/ab16933c-6203-3db9-9da9-513ff1c8496d/mzaf_16993612140334549994.plus.aac.p.m4a"
+  },
+  {
+    "id": 699665745,
+    "artist": "Blur",
+    "album": "Parklife",
+    "track": "Parklife",
+    "year": "1994",
+    "genre": "Pop/Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/71/66/8a71664b-3baa-537b-e008-b32d86da27bc/5099997227755.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/6b/05/6e6b05df-fd44-5a73-05e0-d2b72641c8a7/mzaf_8003247032181462054.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440653206,
+    "artist": "Portishead",
+    "album": "Dummy",
+    "track": "Glory Box",
+    "year": "1994",
+    "genre": "Electronic",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/b2/a4/40b2a45b-eacf-818f-7af6-f7f8b3885230/mzaf_16256497095178600689.plus.aac.p.m4a"
+  },
+  {
+    "id": 724466700,
+    "artist": "Massive Attack",
+    "album": "Mezzanine",
+    "track": "Teardrop",
+    "year": "1998",
+    "genre": "Electronic",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/98/55/0a98555b-8d9d-3b46-660a-b91261557d17/00724384559953.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/a6/91/a3a691b0-8e49-399d-2585-ddcd6694c9f2/mzaf_16325826545413166648.plus.aac.p.m4a"
+  },
+  {
+    "id": 20833584,
+    "artist": "Björk",
+    "album": "Homogenic",
+    "track": "Jóga",
+    "year": "1997",
+    "genre": "Electronic",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/bd/d0/7fbdd0e0-c588-ef4b-a6dd-4dca21f8b41f/081227607364.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/66/27/9f662755-0dc2-678d-2986-2f62f18e8ccb/mzaf_3045265892977245319.plus.aac.p.m4a"
+  },
+  {
+    "id": 1668862649,
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works 85-92",
+    "track": "Xtal",
+    "year": "1992",
+    "genre": "Electronic",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/a9/59/a1a9593a-f705-ca02-495f-2d83f83e4e49/mzaf_282027520707936830.plus.aac.p.m4a"
+  },
+  {
+    "id": 726145033,
+    "artist": "Kraftwerk",
+    "album": "Trans-Europe Express",
+    "track": "Trans-Europe Express",
+    "year": "1977",
+    "genre": "Electronic",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/80/bc/e280bcf9-4048-8c42-2b6b-d8b9c9bbed52/5099996602058_1500x1500_300dpi.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/1a/17/321a171d-22b5-a51b-d718-6ab82444676a/mzaf_9257933657195084259.plus.aac.p.m4a"
+  },
+  {
+    "id": 1276760748,
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "track": "Doo Wop (That Thing)",
+    "year": "1998",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/2c/70/d92c708f-1a4a-d022-e188-a75ecd762b75/mzaf_926740419110213225.plus.aac.p.m4a"
+  },
+  {
+    "id": 278911473,
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "track": "Check the Rhime",
+    "year": "1991",
+    "genre": "Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/d9/ff/b6d9ff32-4a23-b512-326c-859dd0d36731/mzaf_5796514024984352966.plus.aac.p.m4a"
+  },
+  {
+    "id": 1774799818,
+    "artist": "Outkast",
+    "album": "Speakerboxxx/The Love Below",
+    "track": "Hey Ya!",
+    "year": "2003",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/ae/6a/71ae6a46-99a6-e9d8-d7f3-41c0f2df45c4/196872579123.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/90/59/7b9059ba-a8f2-2540-5bbb-d63a178bd8ce/mzaf_1797078659976130902.plus.aac.p.m4a"
+  },
+  {
+    "id": 204669680,
+    "artist": "The Notorious B.I.G.",
+    "album": "Ready to Die",
+    "track": "Juicy",
+    "year": "1994",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/0f/47/dd0f4778-50bb-3e3f-dcea-5866600eba40/mzaf_15801848187432565404.plus.aac.p.m4a"
+  },
+  {
+    "id": 1445668114,
+    "artist": "Nina Simone",
+    "album": "I Put a Spell on You",
+    "track": "Feeling Good",
+    "year": "1965",
+    "genre": "Jazz",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/1e/4a/371e4a5b-e1ad-2538-b3ad-51ba97ba1927/mzaf_408951216543324718.plus.aac.p.m4a"
+  },
+  {
+    "id": 316475543,
+    "artist": "The Dave Brubeck Quartet",
+    "album": "Time Out",
+    "track": "Take Five",
+    "year": "1959",
+    "genre": "Jazz",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8c/fb/e3/8cfbe318-32a9-7b19-0fd9-ea9764ef46fc/mzaf_7049515640073719848.plus.aac.p.m4a"
+  },
+  {
+    "id": 158571527,
+    "artist": "Herbie Hancock",
+    "album": "Head Hunters",
+    "track": "Chameleon",
+    "year": "1973",
+    "genre": "Jazz",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/e5/f5/4fe5f511-462e-e87b-0711-d4e42809fb17/dj.goshfswo.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/bc/d1/05bcd144-2db9-5e43-a4a9-1bd33cf7d169/mzaf_7915628022145635448.plus.aac.p.m4a"
+  },
+  {
+    "id": 1469575900,
+    "artist": "Bob Marley & The Wailers",
+    "album": "Legend",
+    "track": "Three Little Birds",
+    "year": "1984",
+    "genre": "Reggae",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/c2/0d/3cc20dcc-8f4e-f060-36dd-7de52a7ec8fe/12UMGIM14712.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/fc/90/affc9056-e658-fe90-0f07-a8790d1d7265/mzaf_9608562567489878696.plus.aac.p.m4a"
+  },
+  {
+    "id": 739004068,
+    "artist": "Fela Kuti",
+    "album": "Expensive Shit",
+    "track": "Water No Get Enemy",
+    "year": "1975",
+    "genre": "Afro-Beat",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/72/0b/00720bab-3cba-5f1c-5405-1cd5a3037491/720841207597_Cover.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/49/a3/e049a3fd-c94b-5289-9519-02d1ee8706fa/mzaf_5005095867929399591.plus.aac.p.m4a"
+  },
+  {
+    "id": 697195462,
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "track": "One More Time",
+    "year": "2001",
+    "genre": "Dance",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/93/d8/5d93d83f-ad1e-da4d-1d79-9937bdff24ec/mzaf_14396932211949300852.plus.aac.p.m4a"
+  },
+  {
+    "id": 1450695739,
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "track": "bad guy",
+    "year": "2019",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/87/1f/c3871f7e-3260-d615-1c66-5fdca2c3a48f/mzaf_10721331211699880949.plus.aac.p.m4a"
+  },
+  {
+    "id": 1779781782,
+    "artist": "Lana Del Rey",
+    "album": "Born to Die",
+    "track": "Video Games",
+    "year": "2012",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/07/50/670750ec-42f9-fcf2-feef-9c4faa873ce8/mzaf_16864780503903222714.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440766128,
+    "artist": "Frank Ocean",
+    "album": "Channel Orange",
+    "track": "Thinkin Bout You",
+    "year": "2012",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/a3/11/7ea311f5-790a-84ec-3cae-940f89599e62/mzaf_14067239133136508975.plus.aac.p.m4a"
+  },
+  {
+    "id": 1443160699,
+    "artist": "Kanye West & Pusha T",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "track": "Runaway (feat. Pusha T)",
+    "year": "2010",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/dc/95/bcdc957a-6823-082c-0a9b-2be3ef754972/mzaf_11124816692667140659.plus.aac.p.m4a"
+  },
+  {
+    "id": 856131732,
+    "artist": "Nas",
+    "album": "Illmatic",
+    "track": "N.Y. State of Mind",
+    "year": "1994",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/eb/cc/b9ebccbc-5ba4-2cdb-5332-b065739abd9a/886444567619.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/74/b2/5974b206-28f9-0444-76f1-833bc416d4fb/mzaf_869709703522937445.plus.aac.p.m4a"
+  },
+  {
+    "id": 937107838,
+    "artist": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "track": "Respect",
+    "year": "1967",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/31/ee/d131eec4-614c-d661-b580-3dc32b8547e8/603497896622.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/74/40/997440f5-f543-165d-321a-5a64245a6c1c/mzaf_7740075940996149397.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440713020,
+    "artist": "John Coltrane",
+    "album": "A Love Supreme",
+    "track": "A Love Supreme, Pt. 1: Acknowledgement",
+    "year": "1965",
+    "genre": "Jazz",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/24/aa/e524aacd-467b-66f3-8931-0fcd6750a4b9/08UMGIM07914.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/57/ad/4657ad07-9bb1-a8f9-75d3-61a3f1d3dc8b/mzaf_2837170089287274786.plus.aac.p.m4a"
+  },
+  {
+    "id": 747087665,
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "track": "It's Too Late",
+    "year": "1971",
+    "genre": "Singer/Songwriter",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/52/56/9c52568b-9efc-8572-b7fe-047317154ee2/mzaf_10611586259190988943.plus.aac.p.m4a"
+  },
+  {
+    "id": 1492263131,
+    "artist": "Joni Mitchell",
+    "album": "Blue",
+    "track": "A Case of You",
+    "year": "1971",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/a2/43/00a24363-cf69-bfd2-a26a-a042d57ab141/075992719926.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/8e/e6/bc8ee6e2-9fb8-75a1-bdf9-37f97a009fef/mzaf_1734596607807807485.plus.aac.p.m4a"
+  },
+  {
+    "id": 1440863120,
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "track": "Bennie and the Jets",
+    "year": "1973",
+    "genre": "Rock",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/53/57/85535725-8298-9c52-1bd6-d8bb3faab981/mzaf_854458321206818533.plus.aac.p.m4a"
+  },
+  {
+    "id": 1544491233,
+    "artist": "Adele",
+    "album": "21",
+    "track": "Rolling in the Deep",
+    "year": "2011",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/4f/03/4c4f032a-3d2b-853d-da81-996602355b42/mzaf_11625850023134180491.plus.aac.p.m4a"
+  },
+  {
+    "id": 1499378607,
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "track": "Blinding Lights",
+    "year": "2020",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/d6/60/19d660ff-e3a9-8377-15a3-ce4b28e89cac/mzaf_18422426156481158187.plus.aac.p.m4a"
+  },
+  {
+    "id": 1444156738,
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "track": "Still D.R.E. (feat. Snoop Dogg)",
+    "year": "1999",
+    "genre": "Hip-Hop/Rap",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/27/6b/4c/276b4c69-99cb-6209-2fd8-3edd17ccfd06/00602517641228.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/b8/01/00b801d0-ca58-5b96-a07c-4933b6784ca6/mzaf_17927713563224179032.plus.aac.p.m4a"
+  },
+  {
+    "id": 604770244,
+    "artist": "Sade",
+    "album": "Diamond Life",
+    "track": "Smooth Operator",
+    "year": "1984",
+    "genre": "R&B/Soul",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/ad/2a/5fad2aca-d998-701d-7b27-c074339d5fd0/886972262628.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/db/56/c6db5666-4464-a6e5-d6e8-8d481b926e70/mzaf_17727462257578713488.plus.aac.p.m4a"
+  },
+  {
+    "id": 83445997,
+    "artist": "Madonna",
+    "album": "Like a Prayer",
+    "track": "Like a Prayer",
+    "year": "1989",
+    "genre": "Pop",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/23/82/0b238289-52e2-2107-5531-181836267ed2/mzaf_6726729811402686020.plus.aac.p.m4a"
+  },
+  {
+    "id": 850583587,
+    "artist": "Gorillaz",
+    "album": "Demon Days",
+    "track": "DARE",
+    "year": "2005",
+    "genre": "Alternative",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/b0/4a/41b04abc-ebea-f7ae-93ff-eb55a454daf3/825646290994.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/f7/8d/22f78d90-4491-06bf-b53c-6662bbc29aaf/mzaf_2904700452817175766.plus.aac.p.m4a"
+  }
+]
