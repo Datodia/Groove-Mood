@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
+import { Fragment, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { Flip } from 'gsap/Flip'
@@ -373,15 +373,18 @@ export default function App() {
 // Letters animate individually, but each word stays unbreakable so lines wrap between words.
 function split(text) {
   const words = text.split(' ')
+  // The space sits between word boxes; inside an inline-block it would be trimmed.
   return words.map((word, w) => (
-    <span className="word" key={w}>
-      {word.split('').map((c, i) => (
-        <span className="ch-wrap" key={i}>
-          <span className="ch">{c}</span>
-        </span>
-      ))}
-      {w < words.length - 1 && ' '}
-    </span>
+    <Fragment key={w}>
+      {w > 0 && ' '}
+      <span className="word">
+        {word.split('').map((c, i) => (
+          <span className="ch-wrap" key={i}>
+            <span className="ch">{c}</span>
+          </span>
+        ))}
+      </span>
+    </Fragment>
   ))
 }
 
