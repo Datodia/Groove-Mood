@@ -226,6 +226,7 @@ header .sub {
   cursor: pointer;
   perspective: 900px;
 }
+.card.is-pinned .num { background: var(--accent); color: #1a0d05; }
 .card:focus-visible .sleeve { outline: 2px solid var(--accent); outline-offset: 4px; }
 
 .stage {

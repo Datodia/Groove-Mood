@@ -39,9 +39,18 @@ function fadeTo(audio, volume, duration, onComplete) {
   gsap.to(audio, { volume, duration, ease: 'power2.out', onComplete })
 }
 
+function fadeOut(audio) {
+  fadeTo(audio, 0, 0.5, () => {
+    audio.pause()
+    audio.src = ''
+  })
+}
+
 export function play(id, src, onTime) {
   if (current?.id === id) return current.audio
-  stop()
+  // Hand over straight from the old record to the new one. Going through stop() would
+  // announce "nothing playing" first, and the new card would settle itself back in.
+  if (current) fadeOut(current.audio)
   const audio = new Audio(src)
   audio.volume = 0
   audio.loop = true
@@ -59,8 +68,5 @@ export function stop(id) {
   const { audio } = current
   current = null
   emitCurrent()
-  fadeTo(audio, 0, 0.5, () => {
-    audio.pause()
-    audio.src = ''
-  })
+  fadeOut(audio)
 }

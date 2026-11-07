@@ -4,6 +4,8 @@ import { useGSAP } from '@gsap/react'
 import { onCurrentChange, play, stop } from './audio'
 
 // Phones/tablets have no hover: there, a tap toggles the record instead.
+// With a mouse, hover plays and a click pins the record so it keeps playing after the
+// pointer leaves, until another record is hovered/clicked or this one is clicked again.
 const TOUCH = typeof window !== 'undefined' && window.matchMedia('(hover: none)').matches
 
 export default function VinylCard({ album, index, badge, hidden, action, onNowPlaying }) {
@@ -13,6 +15,12 @@ export default function VinylCard({ album, index, badge, hidden, action, onNowPl
   const tilt = useRef(null)
   const [progress, setProgress] = useState(0)
   const active = useRef(false)
+  const pinned = useRef(false)
+  const [isPinned, setIsPinned] = useState(false)
+  const pin = (v) => {
+    pinned.current = v
+    setIsPinned(v)
+  }
 
   // A card can unmount mid-hover (e.g. added to the crate); don't leave its audio running.
   useEffect(() => () => stop(album.id), [album.id])
@@ -53,6 +61,7 @@ export default function VinylCard({ album, index, badge, hidden, action, onNowPl
   const settle = (stopAudio) => {
     if (!active.current) return
     active.current = false
+    pin(false)
     tl.current.reverse()
     gsap.to(spin.current, { timeScale: 0, duration: 1, ease: 'power2.out', onComplete: () => spin.current.pause() })
     tilt.current.rx(0)
@@ -62,6 +71,13 @@ export default function VinylCard({ album, index, badge, hidden, action, onNowPl
     setProgress(0)
   }
   const leave = () => settle(true)
+  const leaveUnlessPinned = () => !pinned.current && leave()
+  const toggle = () => (active.current ? leave() : enter())
+  const togglePin = () => {
+    if (pinned.current) return leave()
+    enter()
+    pin(true)
+  }
 
   useEffect(
     () => onCurrentChange((id) => id !== album.id && settle(false)),
@@ -80,14 +96,29 @@ export default function VinylCard({ album, index, badge, hidden, action, onNowPl
   return (
     <article
       ref={root}
-      className={hidden ? 'card is-hidden' : 'card'}
+      className={['card', hidden && 'is-hidden', isPinned && 'is-pinned'].filter(Boolean).join(' ')}
       data-flip-id={album.id}
       aria-hidden={hidden || undefined}
       tabIndex={hidden ? -1 : 0}
       {...(TOUCH
-        ? { onClick: () => (active.current ? leave() : enter()) }
-        : { onMouseEnter: enter, onMouseLeave: leave, onMouseMove: move, onFocus: enter, onBlur: leave })}
-      aria-label={`${album.album} by ${album.artist}. ${TOUCH ? 'Tap' : 'Hover'} to play ${album.track}`}
+        ? { onClick: toggle }
+        : {
+            onMouseEnter: enter,
+            onMouseLeave: leaveUnlessPinned,
+            onMouseMove: move,
+            onClick: togglePin,
+            onFocus: enter,
+            onBlur: leaveUnlessPinned,
+            onKeyDown: (e) => {
+              if (e.target !== e.currentTarget || (e.key !== 'Enter' && e.key !== ' ')) return
+              e.preventDefault()
+              togglePin()
+            },
+          })}
+      aria-pressed={isPinned}
+      aria-label={`${album.album} by ${album.artist}. ${
+        TOUCH ? 'Tap to play' : 'Hover to preview, click to keep playing'
+      } ${album.track}`}
     >
       <div className="stage">
         <div className="record">
